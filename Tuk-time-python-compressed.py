@@ -30,7 +30,7 @@ area_chart.update_yaxes(title_text = 'Satoshis per CAD$')
 area_chart.update_layout(showlegend = False)
 
 #area_chart.show()
-area_chart.write_image("/Users/phillipburrows/Documents/GitHub/Tuktoyaktuk-time/chart.png")
+area_chart.write_image("/Users/phillipburrows/Documents/GitHub/Tuktoyaktuk-time/tukTime_chart.png")
 
 #consumer_key = "6TQdcibOiWvMfRwaFD1oq60Dv"
 #consumer_secret = "9iQVR7QeHbJZgsgY6NOOw19hPL0tTbLym6Ub0vi5gKVOM5K4SK"
