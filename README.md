@@ -1,2 +1,2 @@
 # Tuktoyaktuk-time
-Twitter bot reporting the price of Satoshis per Canadian Dollar every Friday. Build of GCP using Twitter API and Plotly.
+Twitter bot reporting the price of Satoshis per Canadian Dollar every Friday. Build on GCP using Twitter API and Plotly.
